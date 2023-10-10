@@ -6,7 +6,7 @@
 
 <p>
   <ul align="center" type="none">
-  <li>🔭 I’m currently studying Systems Development and Analysis
+  <li>🔭 I’m currently studying Software Engineer 
   <li>🌱 I’m currently learning JavaScript and TypeScript 
   <li>😄 Pronouns: she/her 
   <li>⚡ Fun fact: Did you know that your DNA is a quaternary code?
