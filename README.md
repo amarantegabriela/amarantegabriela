@@ -7,7 +7,7 @@
 <p>
   <ul align="center" type="none">
   <li>🔭 I’m currently studying Software Engineer 
-  <li>🌱 I’m currently learning JavaScript and TypeScript 
+  <li>🌱 I’m currently learning Java
   <li>😄 Pronouns: she/her 
   <li>⚡ Fun fact: Did you know that your DNA is a quaternary code?
   <li>📫 My contact email: gabiamarante93@gmail.com
